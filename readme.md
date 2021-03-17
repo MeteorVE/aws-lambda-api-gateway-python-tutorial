@@ -1,7 +1,6 @@
 註 : 此原為預計放在部落格之文章，故記錄方式以主題式陳述。
 
-[DEMO請點我](https://meteorve.github.io/aws-lambda-api-gateway-python-tutorial/)
-[備站](http://54.238.6.105:8888/)
+[DEMO請點我 (更新: 爬取 PTT 是使用 pylib 套件，若該服務down，此網頁也無法得到正確 respone)](https://meteorve.github.io/aws-lambda-api-gateway-python-tutorial/)
 
 <!-- more -->
 
